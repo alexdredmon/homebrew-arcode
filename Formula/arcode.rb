@@ -1,9 +1,9 @@
 class Arcode < Formula
   desc "Arcode: AI driven development tool"
   homepage "https://github.com/alexdredmon/arcode"
-  url "https://github.com/alexdredmon/arcode/releases/download/v1.9.4/arcode"
-  version "1.9.4"
-  sha256 "29d133472fb44671da13157fbae6ca9b6b8b9d6b0da75bd54d1f5382933974fb"
+  url "https://github.com/alexdredmon/arcode/releases/download/v1.9.5/arcode"
+  version "1.9.5"
+  sha256 "4cb4ae35f65d5b29ef7fbea2b8a39e50c1d0a710e3932f3ff4a93969e13ce60b"
 
   def install
     bin.install "arcode"
